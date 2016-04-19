@@ -1,8 +1,10 @@
 #Configuration/migration notes
 
 ##Customizations
-Confirm.tpl and ThankYou.tpl at path
+Confirm.tpl and ThankYou.tpl at  
 sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
+
+"contribution" => "membership registration"
 
 ##Drupal Modules: 
 
