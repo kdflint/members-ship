@@ -11,6 +11,12 @@ sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
 (Will have to re-do with any code upgrade.)
 
+###Style Extensions
+
+/civicrm/admin/setting/url&reset=1
+
+Add path to <waterwheel>/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
+
 ##Drupal Modules: 
 
 Views 7.x.3.13  
