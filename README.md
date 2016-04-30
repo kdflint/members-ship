@@ -9,6 +9,8 @@ sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
 "contribution" => "membership registration"
 
+(Will have to re-do with any code upgrade.)
+
 ##Drupal Modules: 
 
 Views 7.x.3.13  
