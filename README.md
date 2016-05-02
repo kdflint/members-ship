@@ -11,7 +11,7 @@ instructions: https://wiki.civicrm.org/confluence/display/CRMDOC41/Views3+Integr
 Confirm.tpl and ThankYou.tpl at  
 sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
-"contribution" => "membership registration"
+"the contribution" => "your membership registration"
 
 (Will have to re-do with any code upgrade.)
 
