@@ -3,6 +3,10 @@
 ##Views
 Don't forget to update Drupal settings.php in order to pull in all custom fields
 
+Get the database mappings from CiviCRM here: http://northbridgetech.org/dev/members/index.php?q=civicrm/admin/setting/uf&reset=1
+
+instructions: https://wiki.civicrm.org/confluence/display/CRMDOC41/Views3+Integration
+
 ##Customizations
 Confirm.tpl and ThankYou.tpl at  
 sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
