@@ -7,7 +7,7 @@ Get the database mappings from CiviCRM here: http://northbridgetech.org/dev/memb
 
 instructions: https://wiki.civicrm.org/confluence/display/CRMDOC41/Views3+Integration
 
-##Customizations
+##Code Customizations
 Confirm.tpl and ThankYou.tpl at  
 sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
@@ -20,6 +20,10 @@ sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 /civicrm/admin/setting/url&reset=1
 
 Add path to <waterwheel>/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
+
+To: themes/bartik/css/style.css
+
+Add at top: @import url("http://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css");
 
 ##Drupal Modules: 
 
