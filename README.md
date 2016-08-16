@@ -34,3 +34,4 @@ Advanced Help 7.x.1.3
 Password Reset Landing Page 7.x.1.1  
 Views Conditional 7.x.1.3
 Menu Items Visibility 7.x.1.x-dev
+Token 7.x-1.6
