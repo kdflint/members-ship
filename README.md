@@ -35,6 +35,7 @@ Password Reset Landing Page 7.x.1.1
 Views Conditional 7.x.1.3  
 Menu Items Visibility 7.x.1.x-dev  
 Token 7.x-1.6  
+Token Filter 7.x-1.1  
 Menu Token 7.x-1.0-beta7  
 Token Request Params 7.x-1.x-dev  
 Entity API 7.x-1.7  
