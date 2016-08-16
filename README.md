@@ -32,6 +32,12 @@ User Import 7.x.3.2
 Chaos 7.x.1.9  
 Advanced Help 7.x.1.3  
 Password Reset Landing Page 7.x.1.1  
-Views Conditional 7.x.1.3
-Menu Items Visibility 7.x.1.x-dev
-Token 7.x-1.6
+Views Conditional 7.x.1.3  
+Menu Items Visibility 7.x.1.x-dev  
+Token 7.x-1.6  
+Menu Token 7.x-1.0-beta7  
+Token Request Params 7.x-1.x-dev  
+Entity API 7.x-1.7  
+Entity Tokens 7.x-1.7  
+UUID 7.x-1.0-beta2  
+
