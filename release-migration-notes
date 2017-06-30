@@ -4,12 +4,12 @@ New Drupal modules
   libraries 7.x-2.3
   views-bulk-operations 7.x-3.4
   
-Update modules, using drush
+Update modules, using drush from public_html/apps/members
 https://www.drupal.org/docs/7/update/updating-modules
-  chaos
-  entity
-  menu item
-  token
+  drush up ctools
+  drush up entity
+  drush up menu_item_visibility
+  drush up token
 
 Enable all necessary Drupal packages as directed by modules admin tool
 
