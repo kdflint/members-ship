@@ -1,0 +1,17 @@
+New Drupal modules  
+  rules 7.x-2.10
+  quiz 7.x-5.1
+  libraries 7.x-2.3
+  views-bulk-operations 7.x-3.4
+  
+Update modules
+  chaos
+  entity
+  menu item
+  token
+
+Enable all necessary Drupal packages as directed by modules admin tool
+
+Rebuild permissions, as directed by Drupal
+
+update Config notes with all above info
