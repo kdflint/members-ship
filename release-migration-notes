@@ -4,7 +4,8 @@ New Drupal modules
   libraries 7.x-2.3
   views-bulk-operations 7.x-3.4
   
-Update modules
+Update modules, using drush
+https://www.drupal.org/docs/7/update/updating-modules
   chaos
   entity
   menu item
