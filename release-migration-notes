@@ -21,6 +21,8 @@ Membership Registration => Membership Application (in form and word replacement)
 
 Volunteer Interest => Volunteer Application (in form)
 
+Other word replacements
+
 Create Member Benefits tab, move elements
 
 Create Grant Application profile, price set
@@ -28,5 +30,3 @@ Create Grant Application profile, price set
 Create New Contribution form, patterned after DEV
 
 civicrm.css: add line '#pricesetTotal { display:none; }'
-
-
