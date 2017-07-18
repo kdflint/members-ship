@@ -27,6 +27,7 @@ Create Member Benefits tab, move elements
 
 Create Grant Application profile, price set
 
-Create New Contribution form, patterned after DEV
+Create New Contribution form, patterned after DEV. Update ID to '8' before configuring!!
 
 civicrm.css: add line '#pricesetTotal { display:none; }'
+civicrm.css: add 2 long selectors for grant confirm page
