@@ -13,6 +13,12 @@ sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
 "the contribution" => "your membership registration"
 
+"To complete this transaction" => "To complete"
+
+"Your transaction will not be completed" => "Your submission will not be completed"
+
+"Your transaction" => "Your submission"
+
 (Will have to re-do with any code upgrade.)
 
 ### Style Extensions
