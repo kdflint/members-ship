@@ -30,4 +30,12 @@ Create Grant Application profile, price set
 Create New Contribution form, patterned after DEV. Update ID to '8' before configuring!!
 
 civicrm.css: add line '#pricesetTotal { display:none; }'
-civicrm.css: add 2 long selectors for grant confirm page
+civicrm.css: add 3 long selectors for grant confirm page
+
+Create New Contribution form, patterned after DEV, for membership waiting list
+
+member login block to specific page
+
+figure out php strict warning on grant submission.. problem in PROD?
+
+couple additional work replacements in ThankYou and Confirm, as described in README
