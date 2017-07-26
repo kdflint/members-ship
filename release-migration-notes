@@ -39,3 +39,5 @@ member login block to specific page
 figure out php strict warning on grant submission.. problem in PROD?
 
 couple additional work replacements in ThankYou and Confirm, as described in README
+
+Merge tags Drupal Authorized and Nexus Authorized with Approved. So, leave only one tag, Approved, in the Provisioning group.
