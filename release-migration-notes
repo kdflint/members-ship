@@ -10,6 +10,7 @@ https://www.drupal.org/docs/7/update/updating-modules
   drush up entity
   drush up menu_item_visibility
   drush up token
+  drush up views
 
 Enable all necessary Drupal packages as directed by modules admin tool
 
