@@ -33,6 +33,8 @@ Add at top: @import url("http://northbridgetech.org/apps/waterwheel/module/core/
 
 ## Drupal Modules: 
 
+See latest screen capture in this directory at modules.png
+
 Views 7.x.3.18  
 Views Build Operations 7.x.3.4  
 User Import 7.x.3.2  
@@ -46,3 +48,5 @@ Quiz 7.x.5.1
 Entity 7.x.1.8
 Token 7.x.1.7
 Libraries 7.x.2.3
+
+
