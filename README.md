@@ -33,10 +33,16 @@ Add at top: @import url("http://northbridgetech.org/apps/waterwheel/module/core/
 
 ## Drupal Modules: 
 
-Views 7.x.3.13  
+Views 7.x.3.18  
+Views Build Operations 7.x.3.4  
 User Import 7.x.3.2  
-Chaos 7.x.1.9  
-Advanced Help 7.x.1.3  
+Chaos 7.x.1.12  
+Advanced Help 7.x.1.3    
 Password Reset Landing Page 7.x.1.1  
 Views Conditional 7.x.1.3  
-Menu Items Visibility 7.x.1.x-dev  
+Menu Items Visibility 7.x.1.0-beta2  
+Rules 7.x.2.10  
+Quiz 7.x.5.1  
+Entity 7.x.1.8
+Token 7.x.1.7
+Libraries 7.x.2.3
