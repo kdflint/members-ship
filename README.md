@@ -33,7 +33,7 @@ Add at top: @import url("http://northbridgetech.org/apps/waterwheel/module/core/
 
 ## Drupal Modules: 
 
-See latest screen capture in this directory at modules.png
+See latest screen captures in this directory at modules*.png
 
 Views 7.x.3.18  
 Views Build Operations 7.x.3.4  
