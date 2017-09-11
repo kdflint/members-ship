@@ -50,6 +50,7 @@ Quiz 7.x.5.1
 Entity 7.x.1.8  
 Token 7.x.1.7  
 Libraries 7.x.2.3  
+Page Throbber 7.x.1.6  
 Font Awesome 7.x.2.6  
 
 
