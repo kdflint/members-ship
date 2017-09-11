@@ -31,6 +31,8 @@ To: themes/bartik/css/style.css
 
 Add at top: @import url("http://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css");
 
+Put Font Awesome library at sites/all/libraries/fontawesome
+
 ## Drupal Modules: 
 
 See latest screen captures in this directory at modules*.png
@@ -45,8 +47,9 @@ Views Conditional 7.x.1.3
 Menu Items Visibility 7.x.1.0-beta2  
 Rules 7.x.2.10  
 Quiz 7.x.5.1  
-Entity 7.x.1.8
-Token 7.x.1.7
-Libraries 7.x.2.3
+Entity 7.x.1.8  
+Token 7.x.1.7  
+Libraries 7.x.2.3  
+Font Awesome 7.x.2.6  
 
 
