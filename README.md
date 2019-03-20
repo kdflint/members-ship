@@ -21,7 +21,7 @@ sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
 (Will have to re-do with any code upgrade.)
 
-Add Formilla inclusion script to sites/all/modules/system/html.tpl.php
+Add Formilla inclusion script and title substitution scripts to modules/system/html.tpl.php
 
 
 ### Style Extensions
