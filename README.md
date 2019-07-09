@@ -26,9 +26,9 @@ Add Formilla inclusion script and title substitution scripts to modules/system/h
 
 ### Style Extensions
 
-/civicrm/admin/setting/url&reset=1
+Administer > System Settings > Resource URLs
 
-Add path to <waterwheel>/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
+Add url to <waterwheel>/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
 
 To: themes/bartik/css/style.css
 
