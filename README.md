@@ -32,7 +32,7 @@ Add url to <waterwheel>/module/core/style/civicrm.css to the Custom CSS URL fiel
 
 To: themes/bartik/css/style.css
 
-Add at top: @import url("http://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css");
+Add at top: @import url("https://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css");
 
 Put Font Awesome library at sites/all/libraries/fontawesome
 
