@@ -36,24 +36,7 @@ Add at top: @import url("https://northbridgetech.org/apps/waterwheel/module/core
 
 Put Font Awesome library at sites/all/libraries/fontawesome
 
-## Drupal Modules: 
+## CiviCRM Errors
 
-See latest screen captures in this directory at modules*.png
-
-Views 7.x.3.18  
-Views Build Operations 7.x.3.4  
-User Import 7.x.3.2  
-Chaos 7.x.1.12  
-Advanced Help 7.x.1.3    
-Password Reset Landing Page 7.x.1.1  
-Views Conditional 7.x.1.3  
-Menu Items Visibility 7.x.1.0-beta2  
-Rules 7.x.2.10  
-Quiz 7.x.5.1  
-Entity 7.x.1.8  
-Token 7.x.1.7  
-Libraries 7.x.2.3  
-Page Throbber 7.x.1.6  
-Font Awesome 7.x.2.6  
-
+`public_html/apps/members/sites/default/files/civicrm/ConfigAndLog`
 
