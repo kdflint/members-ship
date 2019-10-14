@@ -40,3 +40,17 @@ Put Font Awesome library at sites/all/libraries/fontawesome
 
 `public_html/apps/members/sites/default/files/civicrm/ConfigAndLog`
 
+## Drupal Errors
+
+Admin > Reports > Recent Log Messages
+
+OR
+
+add output directives to apps/members/index.php
+
+Also see:
+
+https://www.drupal.org/forum/support/post-installation/2010-05-18/logfiles-of-a-drupal-site
+
+https://www.drupal.org/project/error_log
+
