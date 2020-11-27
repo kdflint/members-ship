@@ -23,9 +23,10 @@ sites/all/modules/civicrm/templates/CRM/Contribute/Form/Contribution
 
 Formilla: Add inclusion script and title substitution scripts to modules/system/html.tpl.php
 
-Tweak Booking extension: Comment line 41 at sites/default/files/civicrm/ext/uk.co.compucorp.civicrm.booking/CRM/Admin/Form/Resource.php 
+Tweak Booking extension: Comment these lines at sites/default/files/civicrm/ext/uk.co.compucorp.civicrm.booking/CRM/Admin/Form/*.php 
 
 `// protected $_id = NULL;`
+`// protected $_sid = NULL;`
 
 
 ### Style Extensions
