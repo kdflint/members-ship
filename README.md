@@ -3,9 +3,9 @@
 
 ### Style Extensions
 
-? Administer > System Settings > Resource URLs
+Civicrm Menu > Administer > System Settings > Resource URLs
 
-? Add url https://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
+Add url https://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
 
 To: core/themes/bartik/css/base/elements.css
 
