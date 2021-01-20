@@ -1,3 +1,18 @@
+# Drupal 8 configuration/migration notes
+
+
+### Style Extensions
+
+? Administer > System Settings > Resource URLs
+
+? Add url https://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css to the Custom CSS URL field. (This file is managed inside the waterwheel repository.)
+
+To: core/themes/bartik/css/base/elements.css
+
+Add at top: @import url("https://northbridgetech.org/apps/waterwheel/module/core/style/civicrm.css");
+
+? Put Font Awesome library at sites/all/libraries/fontawesome
+
 # Configuration/migration notes
 
 ## Views
